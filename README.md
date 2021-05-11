@@ -18,6 +18,7 @@
 <a href="https://instagram.com/sahilm9620" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sahilm9620" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilm9620&show_icons=true&locale=en&layout=compact" alt="Sahil Mulla" /></p>
 
 
 [![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahilm9620&show_icons=true&count_private=true)](https://github.com/sahilm9620/github-readme-stats)
