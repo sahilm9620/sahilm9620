@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_200_800/0/1600774582457?e=1620259200&v=beta&t=vXT6lMDE7ZIkd9OGzG5yLkRLmTDt0kijoQ-ly73bM3U)](https://sahilm9620.github.io)
+
 <h1 align="center">Hi 👋, I'm Sahil Mulla</h1>
 
 
