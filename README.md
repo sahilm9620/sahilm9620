@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sahil Mulla</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sahil Mulla</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilm9620&label=Profile%20views&color=129e00&style=plastic" alt="sahilm9620" /> </p>
